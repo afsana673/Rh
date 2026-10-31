@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HR HABIB AI</string>
+    <string name="accessibility_description">Optional manual-command controls: Back, Home, scroll and tap visible text. The service does not upload screen contents.</string>
+</resources>
